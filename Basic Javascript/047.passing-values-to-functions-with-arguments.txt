@@ -1,0 +1,5 @@
+function functionWithArgs(pam1, pam2){
+  console.log(pam1+pam2);
+}
+
+functionWithArgs(1,2);
